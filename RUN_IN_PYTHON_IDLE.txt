@@ -1,0 +1,14 @@
+PLUTUS FINANCIAL VAULT — PYTHON IDLE
+
+1. Extract the ZIP.
+2. Open app.py with Python IDLE.
+3. Press F5 (Run Module).
+4. Open http://127.0.0.1:5000 if the browser does not open automatically.
+
+ADMIN LOGIN
+Email: vijayplutus@gmail.com
+Password: vijay123
+
+The Admin page shows registered users, names, email IDs, login status, last login time, account number, account type and balance. The administrator can update user account details and change the administrator login credentials.
+
+No demo credentials are displayed in the portal.
